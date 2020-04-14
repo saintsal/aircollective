@@ -30,6 +30,20 @@ sections:
   content: 'Working on a project?  Search every slack group, repository, bill of materials
     and forum worldwide. '
   image: ''
+- template: contentblock
+  component: content_block.html
+  type: contentblock
+  title: Executive-level Assistance
+  content: Apply to get assistance for your breathing device.  You'll have chat and
+    email support directly from Salim Virani, who's built engineering and tech entrepreneurship
+    support programs for the Royal Academy Of Engineering, UCL, Oxford, Seedcamp,
+    and Techstars, and Nato Steafanov, Vice Chair of Sofia Tech Park, Bulgaria's largest
+    science park.
+  actions:
+  - label: Apply
+    url: http://
+  section_id: ''
+  image: ''
 - type: postsblock
   template: postsblock
   title: Recent Posts
