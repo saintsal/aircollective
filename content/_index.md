@@ -10,11 +10,11 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: About
+  title: Filtered full-face masks for Bulgarian Hospitals
   section_id: about
   actions:
-  - label: Contact Me
-    url: "/contact"
+  - label: Donate
+    url: http://helpkarma.com
   component: content_block.html
   content: Making sure everyone in need of a breathing device has one.
   image: ''
