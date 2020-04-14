@@ -20,7 +20,7 @@ sections:
     and Croatia to create a Bulgarian version of the Easybreath COVID-19 mask.  We
     are scaling up our production capabilities with the goal of protecting every hospital
     worker in Bulgaria.
-  image: "/images/e295c04f281134eadb2575d7866d707ce2e4490c_2_281x500.jpeg"
+  image: ''
 - template: contentblock
   component: content_block.html
   type: contentblock
