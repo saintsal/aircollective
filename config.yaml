@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Air Collective
-    tagline: Breathing devices for everyone.
+    tagline: Breathing devices for everyone
     profile_img: "/images/aircollectivelogo.png"
     bg: light
     has_nav: true
