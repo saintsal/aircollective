@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: Breathing devices for everyone.
-  title: Hero Collective
+  title: Air Collective
   actions:
   - label: Join Us
     url: ''
