@@ -6,8 +6,10 @@ sections:
   section_id: hero
   component: hero_block.html
   content: Breathing devices for everyone.
-  title: ''
-  actions: []
+  title: Hero Collective
+  actions:
+  - label: Join Us
+    url: ''
 - type: contentblock
   template: contentblock
   title: About
