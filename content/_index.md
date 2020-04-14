@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Air Collective
 sections:
 - type: heroblock
   template: heroblock
@@ -42,5 +42,6 @@ layout: home
 menu:
   main:
     weight: 1
+draft: true
 
 ---
