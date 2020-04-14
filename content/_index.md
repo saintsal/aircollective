@@ -10,7 +10,7 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: Filtered full-face masks for Bulgarian Hospitals
+  title: Help us protect every hospital worker in Bulgaria
   section_id: about
   actions:
   - label: Donate
