@@ -8,7 +8,7 @@ params:
     title: Air Collective
     tagline: Breathing devices for everyone.
     profile_img: "/images/aircollectivelogo.png"
-    bg: dark
+    bg: light
     has_nav: true
     has_social: false
   footer:
@@ -21,8 +21,3 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
-menu:
-  main:
-  - url: https://airtable.com/shr01Ys1n32nwT4R5
-    name: Respirator Library
-    weight: 4
