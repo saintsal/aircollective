@@ -7,9 +7,7 @@ sections:
   component: hero_block.html
   content: Breathing devices for everyone.
   title: Air Collective
-  actions:
-  - label: Join Us
-    url: ''
+  actions: []
 - type: contentblock
   template: contentblock
   title: About
