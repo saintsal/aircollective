@@ -24,10 +24,11 @@ sections:
 - template: contentblock
   component: content_block.html
   type: contentblock
-  title: ''
+  title: Instant Answers
   section_id: ''
   actions: []
-  content: ''
+  content: 'Working on a project?  Search every slack group, repository, bill of materials
+    and forum worldwide. '
   image: ''
 - type: postsblock
   template: postsblock
