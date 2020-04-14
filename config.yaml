@@ -21,3 +21,8 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - url: https://airtable.com/shr01Ys1n32nwT4R5
+    name: Respirator Library
+    weight: 4
